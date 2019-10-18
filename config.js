@@ -21,7 +21,7 @@ module.exports = {
     // Set environment variables or hard-code here
     credentials: {
         client_id: 'nqpwqsDLFGkSO6LgA2mvaSXy5AeH5VSJ',
-        client_secret: 'YCh4SpF0REGg4awz',
+        client_secret: 'T66cbb0737e68467',
         callback_url: 'https://viewhubmodels-modified0.herokuapp.com/api/forge/callback/oauth'
     },
     scopes: {
