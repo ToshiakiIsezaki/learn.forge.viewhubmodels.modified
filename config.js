@@ -22,7 +22,7 @@ module.exports = {
     credentials: {
         client_id: 'nqpwqsDLFGkSO6LgA2mvaSXy5AeH5VSJ',
         client_secret: 'T66cbb0737e68467',
-        callback_url: 'https://viewhubmodels-modified0.herokuapp.com/api/forge/callback/oauth'
+        callback_url: 'https://aps-viewhubmodels.herokuapp.com/api/forge/callback/oauth'
     },
     scopes: {
         // Required scopes for the server-side application
